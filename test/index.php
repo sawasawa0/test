@@ -22,8 +22,10 @@
 	  	echo "こんにちは";
 		echo "追記した";
 		echo "追記した2";
-		echo "追記した2";
-			echo "追記した2";		
+		echo "追記した3";
+		echo "追記した4";
+
+
 	   ?>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
